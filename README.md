@@ -11,14 +11,11 @@ I-am-angelgonzdev@github
 -------------------------
 💻 Soy Estudiante de Ingeniería de Software especializado en el desarrollo de módulos
   personalizados e integraciones para Odoo utilizando Python.
-📚 Actualmente estudio Ingeniería de Software en la Universidad Tecnológica del Perú.
-📝 Tengo un gran interés en el desarrollo web, las APIs y la automatización de procesos.
-🔭 Trabajo en integraciones de Odoo con plataformas externas como Drivin, Ripley y Yape.
+📝 Tengo un gran interés en el desarrollo web, APIs y la automatización de procesos
 🌱 Estoy aprendiendo más sobre APIs RESTful, XML-RPC y migraciones de bases de datos.
 🌟 Lenguajes principales: Python, JavaScript.
 🚩 Interesado en el desarrollo backend y el consumo de APIs.
 💖 Apasionado por crear soluciones que optimicen los procesos empresariales.
-🎵 Me encanta jugar fútbol y pasar tiempo con mis seres queridos.
 ```
 --------
 
