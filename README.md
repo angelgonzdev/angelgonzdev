@@ -25,24 +25,17 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
 - 🔭 Actualmente trabajo como Desarrollador **Odoo** en una empresa de soluciones tecnológicas
-
 - 🌱 Estoy aprendiendo más sobre integraciones avanzadas de APIs y DevOps
-
 - 👨‍💻 Algunos de mis proyectos están disponibles en mi GitHub
-
 - 💬 Pregúntame sobre Python, Odoo, Integraciones con APIs y automatización de procesos
-
 - 📫 Cómo contactarme **jgonzalezchaca@gmail.com**
-
 - 📄 Conoce más sobre mi experiencia mi perfil profesional
-
 - ⚡ Dato curioso Siempre estoy buscando nuevos retos tecnológicos
 
 <br>
@@ -57,6 +50,7 @@
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -92,9 +86,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Activity:</h3>
-
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center">
+  <img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+</p>
