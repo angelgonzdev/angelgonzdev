@@ -1,10 +1,4 @@
 <h1 align="center">
-  <p align="center">
-  <img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
-</p>
-
------
-
 Hi, I'm Angel Jefferson Gonzalez Chaca!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
@@ -26,7 +20,7 @@ I-am-angelgonzdev@github
 💖 Apasionado por crear soluciones que optimicen los procesos empresariales.
 🎵 Me encanta jugar fútbol y pasar tiempo con mis seres queridos.
 ```
-
+--------
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
@@ -63,6 +57,7 @@ I-am-angelgonzdev@github
 
 <br/>
 
+--------
 
 ## Connect with me:
 
@@ -72,11 +67,9 @@ I-am-angelgonzdev@github
   <a href="mailto:mahmoudmiehob@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
 </p>
 
-## ❤ Views and Followers
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+  <p align="center">
+  <img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+</p>
 
-<h2 align='left'>Thank You ❤</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
-</p>	
+-----
 
